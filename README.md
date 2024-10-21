@@ -30,6 +30,4 @@ Please refer to the original source for detailed information on data collection 
 
 ### Results:
 
-- **Electricity Trends**: Analyze and visualize trends in net energy balance and import dependence by country.
-- **Geographical Patterns**: Identify countries with the highest and lowest levels of import dependence.
-- **Correlations**: Explore the relationships between different energy metrics through correlation analysis.
+![Results](https://github.com/AashishSaini16/Power_Dynamics/blob/main/Top_10_Countries_with%20_HID.JPG)
